@@ -1,8 +1,8 @@
 # Semantic-Segmentation-Using-U-Net
-This project implements the U-Net architecture for semantic image segmentation. The goal is to predict a label for every pixel in an image by creating precise masks for each object in the image. The project focuses on semantic image segmentation for self-driving car applications using the CARLA dataset.
+This project implements the U-Net architecture for semantic image segmentation. The goal is to predict a label for every pixel in an image by creating precise masks for each object in the image. 
 
 ## Experiment Description
-In this project, we will build our own U-Net model, a type of convolutional neural network (CNN) specifically designed for image segmentation tasks. We will apply semantic image segmentation, which involves labeling each pixel in an image with its corresponding class to create precise masks for objects. The CARLA self-driving car dataset will be used for training and evaluation.
+In this project, we will build our own U-Net model, a type of convolutional neural network (CNN) specifically designed for image segmentation tasks. We will apply semantic image segmentation, which involves labeling each pixel in an image with its corresponding class to create precise masks for objects. 
 
 ## Project Structure
 The project contains the following files:
